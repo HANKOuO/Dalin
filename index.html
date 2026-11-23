@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>大林糖廠：失落的時光檔案</title>
+<meta name="description" content="以嘉義大林糖廠為主題，結合歷史地圖、GIS 與解謎的互動式數位文化體驗（學生專題）">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="runhead">
+  <span class="left" id="issue">地方文史特集 No.01</span>
+  <span class="mid">大林糖廠</span>
+  <span class="right"><span class="long">碎片</span><b data-stat="fragments">0</b>／3　<span class="long">總分</span><b data-stat="total">0</b></span>
+</header>
+
+<div class="page">
+  <section class="cover">
+    <h1 class="vt" id="title">大林糖廠<small>失落的時光檔案</small></h1>
+    <figure class="mapcol">
+      <div class="bar"><span id="cover-kicker"></span><span>P.00</span></div>
+      <div class="halftone" id="cover-map"><div class="big82" aria-hidden="true">82</div></div>
+      <figcaption>地圖：大林周邊 1939 年（朱紅）與 1953 年（墨線）圖上的鐵路、大林鎮界與糖廠位置。由專題組員依歷史地圖數化；原始圖層沒有區分臺鐵與糖業鐵道。「82」是製糖年數（1913–1995）。</figcaption>
+    </figure>
+    <aside class="side">
+      <div>
+        <div class="kick">本期導讀</div>
+        <blockquote id="quote"></blockquote>
+        <p id="lede"></p>
+      </div>
+      <div>
+        <a class="read" id="start" href="level1.html">開始閱讀<small>從第 01 篇開始調查</small></a>
+        <div class="tally"><span>已找回　<b data-stat="fragments">0</b> / 3 份碎片</span><span>總分　<b data-stat="total">0</b></span></div>
+      </div>
+    </aside>
+  </section>
+
+  <section class="toc" aria-labelledby="toc-h">
+    <h2 id="toc-h">目次<small>CONTENTS</small></h2>
+    <div class="items" id="levels"></div>
+  </section>
+
+  <section class="band" aria-labelledby="yr-h">
+    <h2 class="sec-h" id="yr-h">年表<small>CHRONOLOGY</small></h2>
+    <div class="years" id="years"></div>
+  </section>
+
+  <section class="band" aria-labelledby="card-h">
+    <h2 class="sec-h" id="card-h">建築收藏<small>第 02 篇解鎖</small></h2>
+    <div>
+      <div class="cards" id="cards"></div>
+      <p class="hint-line">標示「示範」的卡片是示範資料，不是真實建築。</p>
+    </div>
+  </section>
+
+  <section class="band" aria-labelledby="how-h">
+    <h2 class="sec-h" id="how-h">閱讀方法<small>HOW TO PLAY</small></h2>
+    <ol class="howto" id="howto"></ol>
+  </section>
+
+  <footer class="colophon">
+    <div>
+      <p id="credits" style="margin:0 0 6px"></p>
+      <p style="margin:0">歷史底圖即時讀取中央研究院 GIS 專題中心與內政部國土測繪中心的圖磚服務，沒有下載或轉存影像；兩個服務都沒有公開的授權條款，正式公開前需要向資料單位確認。字體：思源宋體、思源黑體、霞鶩文楷（SIL OFL）。</p>
+    </div>
+    <div>
+      <button class="link-btn" id="unlock">展示模式：解鎖全部篇章</button>
+      <button class="link-btn" id="reset">清除閱讀進度</button>
+    </div>
+  </footer>
+</div>
+
+<script src="js/core.js"></script>
+<script src="js/svgmap.js"></script>
+<script src="js/home.js"></script>
+</body>
+</html>
