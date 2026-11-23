@@ -1,0 +1,53 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "大林糖廠",
+    "category": "廠房",
+    "start_year": 1913,
+    "end_year": 1995,
+    "status": "停止製糖",
+    "story": "日治舊名大林製糖所（日糖興業），舊址嘉義廳打貓支廳大莆林區，產能1600噸/日；1995年停止製糖",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dalin_Sugar_Factory_D8958.jpg/500px-Dalin_Sugar_Factory_D8958.jpg",
+    "card_no": 1,
+    "source": "1939糖廠.shp；台灣糖業公司各糖廠歷史.xlsx"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.4560635,
+     23.6122451
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "臺鐵大林站",
+    "category": "交通",
+    "start_year": null,
+    "end_year": null,
+    "status": "營運中",
+    "story": "嘉義縣大林鎮中山路2號；距糖廠直線約1.1公里",
+    "photo": "",
+    "card_no": null,
+    "source": "MARK_臺鐵車站_1140206.shp"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.455844,
+     23.601096
+    ]
+   }
+  }
+ ]
+}

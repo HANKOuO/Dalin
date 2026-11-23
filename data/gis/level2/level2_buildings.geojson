@@ -1,0 +1,191 @@
+{
+ "type": "FeatureCollection",
+ "name": "level2_buildings",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "building_id": "B01",
+    "name": "大林糖廠（製糖工場舊址）",
+    "is_demo": false,
+    "historical_use": "製糖工場（甘蔗壓榨、製糖）",
+    "current_use": "台糖大林糖廠廠區；2018 年在廠區動土設置太陽能發電廠",
+    "first_observed_year": null,
+    "construction_year": 1913,
+    "construction_year_note": "1913 年第一工場完成（台灣糖業公司各糖廠歷史.xlsx、map.net.tw 沿革）。最早出現在哪一張歷史圖資尚未比對。",
+    "current_status": "1995 年 7 月 1 日製糖工場停閉",
+    "historical_description": "1909 年新高製糖會社選定大林設廠，1913 年第一工場完成，1926 年由大日本製糖收購，1935 年改名「大林製糖所」。戰後屬台糖，1974 年產製耕地白糖，被稱為遠東第一座此類糖廠；1995 年停止製糖。",
+    "historical_photo": "",
+    "historical_photo_credit": "",
+    "current_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dalin_Sugar_Factory_D8958.jpg/500px-Dalin_Sugar_Factory_D8958.jpg",
+    "current_photo_credit": "Wikimedia Commons：Dalin Sugar Factory D8958.jpg（授權請至檔案頁確認，拍攝年份未記錄）",
+    "source": "1939糖廠.shp；台灣糖業公司各糖廠歷史.xlsx；台糖大事紀 sn=194、246",
+    "confidence": "高：沿革有文獻；點位為代表點",
+    "public_access": "待確認（請實地或向台糖確認開放情形）",
+    "clue_easy": "找出照片中的這座糖廠：大林糖廠。",
+    "clue_normal": "它在 1913 年完成第一座工場，1995 年停止製糖。位置在大林車站的北邊。",
+    "clue_hard": "過去：壓榨甘蔗。位置：大林車站北方約 1 公里。",
+    "card_title": "百年製糖工場",
+    "card_rarity": "SSR"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.4560635,
+     23.6122451
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "building_id": "B02",
+    "name": "台糖大林太陽能發電廠",
+    "is_demo": true,
+    "historical_use": "糖廠土地（過去細部用途未查證）",
+    "current_use": "太陽能發電",
+    "first_observed_year": null,
+    "construction_year": 2018,
+    "construction_year_note": "2018 年 3 月 20 日動土（台糖大事紀 sn=356）。完工年份未查證。",
+    "current_status": "用途已轉為發電（完工與營運狀態待查）",
+    "historical_description": "2018 年台糖在大林糖廠土地上動土設置太陽能發電廠。【DEMO】地圖上的範圍是示範位置，尚未依正射影像數化。",
+    "historical_photo": "",
+    "current_photo": "assets/demo/demo_photo_solar.svg",
+    "current_photo_credit": "示範圖片（非真實照片）",
+    "source": "台糖大事紀 sn=356；位置：示範資料",
+    "confidence": "DEMO：事件已查證，位置未查證",
+    "public_access": "待確認",
+    "clue_easy": "找出：台糖大林太陽能發電廠。",
+    "clue_normal": "2018 年，糖廠的一部分土地開始「種太陽」。它在糖廠點位的東南方。",
+    "clue_hard": "過去：糖廠土地。現在：發電。",
+    "card_title": "種太陽的糖廠",
+    "card_rarity": "R"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4569459,
+       23.6092607
+      ],
+      [
+       120.4591027,
+       23.6092607
+      ],
+      [
+       120.4591027,
+       23.6107077
+      ],
+      [
+       120.4569459,
+       23.6107077
+      ],
+      [
+       120.4569459,
+       23.6092607
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "building_id": "B03",
+    "name": "臺鐵大林車站",
+    "is_demo": false,
+    "historical_use": "鐵路車站",
+    "current_use": "鐵路車站（營運中）",
+    "first_observed_year": null,
+    "construction_year": null,
+    "construction_year_note": "設站年份尚未查證，請組員補上文獻來源後再填。",
+    "current_status": "營運中",
+    "historical_description": "位於嘉義縣大林鎮中山路 2 號，距離糖廠點位直線約 1.1 公里。車站和糖廠之間的運輸關係，有待組員從文獻補充。",
+    "historical_photo": "",
+    "current_photo": "",
+    "source": "MARK_臺鐵車站_1140206.shp",
+    "confidence": "高：點位與地址；歷史內容待補",
+    "public_access": "開放（營運中車站）",
+    "clue_easy": "找出：臺鐵大林車站。",
+    "clue_normal": "從糖廠往南走大約 1.1 公里，搭火車的地方。",
+    "clue_hard": "過去與現在都是交通節點，位在縱貫線上。",
+    "card_title": "大林的出入口",
+    "card_rarity": "R"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.455844,
+     23.601096
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "building_id": "B04",
+    "name": "【DEMO】示範建築甲",
+    "is_demo": true,
+    "historical_use": "（示範）待組員查證後填入",
+    "current_use": "（示範）待填",
+    "first_observed_year": null,
+    "construction_year": null,
+    "construction_year_note": "示範資料，沒有興建年份。",
+    "current_status": "示範",
+    "historical_description": "這是測試用的示範點位，不是真實建築。請在 QGIS 數化真實建築後替換。",
+    "historical_photo": "assets/demo/demo_photo_a.svg",
+    "current_photo": "",
+    "current_photo_credit": "示範圖片（非真實照片）",
+    "source": "示範資料",
+    "confidence": "DEMO",
+    "public_access": "示範",
+    "clue_easy": "找出地圖上的「示範建築甲」。",
+    "clue_normal": "它在糖廠點位的西北方大約 150 公尺。",
+    "clue_hard": "示範",
+    "card_title": "示範收藏卡甲",
+    "card_rarity": "N"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.454887,
+     23.613059
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "building_id": "B05",
+    "name": "【DEMO】示範建築乙",
+    "is_demo": true,
+    "historical_use": "（示範）待組員查證後填入",
+    "current_use": "（示範）待填",
+    "first_observed_year": null,
+    "construction_year": null,
+    "construction_year_note": "示範資料，沒有興建年份。",
+    "current_status": "示範",
+    "historical_description": "這是測試用的示範點位，不是真實建築。請在 QGIS 數化真實建築後替換。",
+    "historical_photo": "assets/demo/demo_photo_b.svg",
+    "current_photo": "",
+    "current_photo_credit": "示範圖片（非真實照片）",
+    "source": "示範資料",
+    "confidence": "DEMO",
+    "public_access": "示範",
+    "clue_easy": "找出地圖上的「示範建築乙」。",
+    "clue_normal": "它在糖廠點位的東北方大約 200 公尺。",
+    "clue_hard": "示範",
+    "card_title": "示範收藏卡乙",
+    "card_rarity": "N"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.4575341,
+     23.6136017
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,1406 @@
+{
+ "type": "FeatureCollection",
+ "name": "landuse_change",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R1C1",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4474851,
+       23.6178974
+      ],
+      [
+       120.4499361,
+       23.6178974
+      ],
+      [
+       120.4499361,
+       23.6156365
+      ],
+      [
+       120.4474851,
+       23.6156365
+      ],
+      [
+       120.4474851,
+       23.6178974
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R1C2",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "建成區",
+    "changed": true,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4499361,
+       23.6178974
+      ],
+      [
+       120.4523871,
+       23.6178974
+      ],
+      [
+       120.4523871,
+       23.6156365
+      ],
+      [
+       120.4499361,
+       23.6156365
+      ],
+      [
+       120.4499361,
+       23.6178974
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R1C3",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62497,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4523871,
+       23.6178974
+      ],
+      [
+       120.454838,
+       23.6178974
+      ],
+      [
+       120.454838,
+       23.6156365
+      ],
+      [
+       120.4523871,
+       23.6156365
+      ],
+      [
+       120.4523871,
+       23.6178974
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R1C4",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.454838,
+       23.6178974
+      ],
+      [
+       120.457289,
+       23.6178974
+      ],
+      [
+       120.457289,
+       23.6156365
+      ],
+      [
+       120.454838,
+       23.6156365
+      ],
+      [
+       120.454838,
+       23.6178974
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R1C5",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.457289,
+       23.6178974
+      ],
+      [
+       120.45974,
+       23.6178974
+      ],
+      [
+       120.45974,
+       23.6156365
+      ],
+      [
+       120.457289,
+       23.6156365
+      ],
+      [
+       120.457289,
+       23.6178974
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R1C6",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "建成區",
+    "changed": true,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.45974,
+       23.6178974
+      ],
+      [
+       120.462191,
+       23.6178974
+      ],
+      [
+       120.462191,
+       23.6156365
+      ],
+      [
+       120.45974,
+       23.6156365
+      ],
+      [
+       120.45974,
+       23.6178974
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R1C7",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.462191,
+       23.6178974
+      ],
+      [
+       120.464642,
+       23.6178974
+      ],
+      [
+       120.464642,
+       23.6156365
+      ],
+      [
+       120.462191,
+       23.6156365
+      ],
+      [
+       120.462191,
+       23.6178974
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R2C1",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62502,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4474851,
+       23.6156365
+      ],
+      [
+       120.4499361,
+       23.6156365
+      ],
+      [
+       120.4499361,
+       23.6133755
+      ],
+      [
+       120.4474851,
+       23.6133755
+      ],
+      [
+       120.4474851,
+       23.6156365
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R2C2",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62502,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4499361,
+       23.6156365
+      ],
+      [
+       120.4523871,
+       23.6156365
+      ],
+      [
+       120.4523871,
+       23.6133755
+      ],
+      [
+       120.4499361,
+       23.6133755
+      ],
+      [
+       120.4499361,
+       23.6156365
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R2C3",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "糖業工業用地",
+    "to_type": "糖業工業用地",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4523871,
+       23.6156365
+      ],
+      [
+       120.454838,
+       23.6156365
+      ],
+      [
+       120.454838,
+       23.6133755
+      ],
+      [
+       120.4523871,
+       23.6133755
+      ],
+      [
+       120.4523871,
+       23.6156365
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R2C4",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "糖業工業用地",
+    "to_type": "糖業工業用地",
+    "changed": false,
+    "area_m2": 62502,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.454838,
+       23.6156365
+      ],
+      [
+       120.457289,
+       23.6156365
+      ],
+      [
+       120.457289,
+       23.6133755
+      ],
+      [
+       120.454838,
+       23.6133755
+      ],
+      [
+       120.454838,
+       23.6156365
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R2C5",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "糖業工業用地",
+    "to_type": "糖業工業用地",
+    "changed": false,
+    "area_m2": 62502,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.457289,
+       23.6156365
+      ],
+      [
+       120.45974,
+       23.6156365
+      ],
+      [
+       120.45974,
+       23.6133755
+      ],
+      [
+       120.457289,
+       23.6133755
+      ],
+      [
+       120.457289,
+       23.6156365
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R2C6",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62502,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.45974,
+       23.6156365
+      ],
+      [
+       120.462191,
+       23.6156365
+      ],
+      [
+       120.462191,
+       23.6133755
+      ],
+      [
+       120.45974,
+       23.6133755
+      ],
+      [
+       120.45974,
+       23.6156365
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R2C7",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62502,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.462191,
+       23.6156365
+      ],
+      [
+       120.464642,
+       23.6156365
+      ],
+      [
+       120.464642,
+       23.6133755
+      ],
+      [
+       120.462191,
+       23.6133755
+      ],
+      [
+       120.462191,
+       23.6156365
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R3C1",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4474851,
+       23.6133755
+      ],
+      [
+       120.4499361,
+       23.6133755
+      ],
+      [
+       120.4499361,
+       23.6111146
+      ],
+      [
+       120.4474851,
+       23.6111146
+      ],
+      [
+       120.4474851,
+       23.6133755
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R3C2",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4499361,
+       23.6133755
+      ],
+      [
+       120.4523871,
+       23.6133755
+      ],
+      [
+       120.4523871,
+       23.6111146
+      ],
+      [
+       120.4499361,
+       23.6111146
+      ],
+      [
+       120.4499361,
+       23.6133755
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R3C3",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "糖業工業用地",
+    "to_type": "糖業工業用地",
+    "changed": false,
+    "area_m2": 62497,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4523871,
+       23.6133755
+      ],
+      [
+       120.454838,
+       23.6133755
+      ],
+      [
+       120.454838,
+       23.6111146
+      ],
+      [
+       120.4523871,
+       23.6111146
+      ],
+      [
+       120.4523871,
+       23.6133755
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R3C4",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "糖業工業用地",
+    "to_type": "糖業工業用地",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.454838,
+       23.6133755
+      ],
+      [
+       120.457289,
+       23.6133755
+      ],
+      [
+       120.457289,
+       23.6111146
+      ],
+      [
+       120.454838,
+       23.6111146
+      ],
+      [
+       120.454838,
+       23.6133755
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R3C5",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "糖業工業用地",
+    "to_type": "能源設施",
+    "changed": true,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.457289,
+       23.6133755
+      ],
+      [
+       120.45974,
+       23.6133755
+      ],
+      [
+       120.45974,
+       23.6111146
+      ],
+      [
+       120.457289,
+       23.6111146
+      ],
+      [
+       120.457289,
+       23.6133755
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R3C6",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "能源設施",
+    "changed": true,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.45974,
+       23.6133755
+      ],
+      [
+       120.462191,
+       23.6133755
+      ],
+      [
+       120.462191,
+       23.6111146
+      ],
+      [
+       120.45974,
+       23.6111146
+      ],
+      [
+       120.45974,
+       23.6133755
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R3C7",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "綠地水域",
+    "to_type": "綠地水域",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.462191,
+       23.6133755
+      ],
+      [
+       120.464642,
+       23.6133755
+      ],
+      [
+       120.464642,
+       23.6111146
+      ],
+      [
+       120.462191,
+       23.6111146
+      ],
+      [
+       120.462191,
+       23.6133755
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R4C1",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "建成區",
+    "to_type": "建成區",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4474851,
+       23.6111146
+      ],
+      [
+       120.4499361,
+       23.6111146
+      ],
+      [
+       120.4499361,
+       23.6088537
+      ],
+      [
+       120.4474851,
+       23.6088537
+      ],
+      [
+       120.4474851,
+       23.6111146
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R4C2",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "建成區",
+    "to_type": "建成區",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4499361,
+       23.6111146
+      ],
+      [
+       120.4523871,
+       23.6111146
+      ],
+      [
+       120.4523871,
+       23.6088537
+      ],
+      [
+       120.4499361,
+       23.6088537
+      ],
+      [
+       120.4499361,
+       23.6111146
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R4C3",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "建成區",
+    "changed": true,
+    "area_m2": 62497,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4523871,
+       23.6111146
+      ],
+      [
+       120.454838,
+       23.6111146
+      ],
+      [
+       120.454838,
+       23.6088537
+      ],
+      [
+       120.4523871,
+       23.6088537
+      ],
+      [
+       120.4523871,
+       23.6111146
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R4C4",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "糖業工業用地",
+    "to_type": "糖業工業用地",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.454838,
+       23.6111146
+      ],
+      [
+       120.457289,
+       23.6111146
+      ],
+      [
+       120.457289,
+       23.6088537
+      ],
+      [
+       120.454838,
+       23.6088537
+      ],
+      [
+       120.454838,
+       23.6111146
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R4C5",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "能源設施",
+    "changed": true,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.457289,
+       23.6111146
+      ],
+      [
+       120.45974,
+       23.6111146
+      ],
+      [
+       120.45974,
+       23.6088537
+      ],
+      [
+       120.457289,
+       23.6088537
+      ],
+      [
+       120.457289,
+       23.6111146
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R4C6",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "能源設施",
+    "changed": true,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.45974,
+       23.6111146
+      ],
+      [
+       120.462191,
+       23.6111146
+      ],
+      [
+       120.462191,
+       23.6088537
+      ],
+      [
+       120.45974,
+       23.6088537
+      ],
+      [
+       120.45974,
+       23.6111146
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R4C7",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "綠地水域",
+    "to_type": "綠地水域",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.462191,
+       23.6111146
+      ],
+      [
+       120.464642,
+       23.6111146
+      ],
+      [
+       120.464642,
+       23.6088537
+      ],
+      [
+       120.462191,
+       23.6088537
+      ],
+      [
+       120.462191,
+       23.6111146
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R5C1",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "建成區",
+    "to_type": "建成區",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4474851,
+       23.6088537
+      ],
+      [
+       120.4499361,
+       23.6088537
+      ],
+      [
+       120.4499361,
+       23.6065928
+      ],
+      [
+       120.4474851,
+       23.6065928
+      ],
+      [
+       120.4474851,
+       23.6088537
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R5C2",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "建成區",
+    "to_type": "建成區",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4499361,
+       23.6088537
+      ],
+      [
+       120.4523871,
+       23.6088537
+      ],
+      [
+       120.4523871,
+       23.6065928
+      ],
+      [
+       120.4499361,
+       23.6065928
+      ],
+      [
+       120.4499361,
+       23.6088537
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R5C3",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "建成區",
+    "changed": true,
+    "area_m2": 62497,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.4523871,
+       23.6088537
+      ],
+      [
+       120.454838,
+       23.6088537
+      ],
+      [
+       120.454838,
+       23.6065928
+      ],
+      [
+       120.4523871,
+       23.6065928
+      ],
+      [
+       120.4523871,
+       23.6088537
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R5C4",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "建成區",
+    "changed": true,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.454838,
+       23.6088537
+      ],
+      [
+       120.457289,
+       23.6088537
+      ],
+      [
+       120.457289,
+       23.6065928
+      ],
+      [
+       120.454838,
+       23.6065928
+      ],
+      [
+       120.454838,
+       23.6088537
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R5C5",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.457289,
+       23.6088537
+      ],
+      [
+       120.45974,
+       23.6088537
+      ],
+      [
+       120.45974,
+       23.6065928
+      ],
+      [
+       120.457289,
+       23.6065928
+      ],
+      [
+       120.457289,
+       23.6088537
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R5C6",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "農業用地",
+    "to_type": "農業用地",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.45974,
+       23.6088537
+      ],
+      [
+       120.462191,
+       23.6088537
+      ],
+      [
+       120.462191,
+       23.6065928
+      ],
+      [
+       120.45974,
+       23.6065928
+      ],
+      [
+       120.45974,
+       23.6088537
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "change_id": "C-R5C7",
+    "from_year": 1966,
+    "to_year": 2025,
+    "from_type": "綠地水域",
+    "to_type": "綠地水域",
+    "changed": false,
+    "area_m2": 62500,
+    "source_id": "DEMO"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       120.462191,
+       23.6088537
+      ],
+      [
+       120.464642,
+       23.6088537
+      ],
+      [
+       120.464642,
+       23.6065928
+      ],
+      [
+       120.462191,
+       23.6065928
+      ],
+      [
+       120.462191,
+       23.6088537
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+  "_說明": "底圖設定。url 使用 Leaflet 的 {z}/{x}/{y} 格式。license_status：verified（授權已確認）、unconfirmed（可連線使用，但正式公開前要再確認授權）。每一關使用的底圖 id 寫在 data/gis/level1/level1_targets.geojson 的 left_basemap、right_basemap 欄位。 year_label 是比較畫面上的大字年代。",
+  "default_center": [
+    23.6122451,
+    120.4560635
+  ],
+  "default_zoom": 15,
+  "basemaps": {
+    "JM20K_1921": {
+      "name": "1921 日治臺灣堡圖（大正版）",
+      "url": "https://gis.sinica.edu.tw/tileserver/file-exists.php?img=JM20K_1921-jpg-{z}-{x}-{y}",
+      "maxNativeZoom": 17,
+      "maxZoom": 18,
+      "attribution": "中研院人社中心GIS專題中心 WMTS",
+      "license_status": "unconfirmed",
+      "is_historical": true,
+      "year_label": "1921"
+    },
+    "JM25K_1944": {
+      "name": "1944 日治地形圖（航照修正版）",
+      "url": "https://gis.sinica.edu.tw/tileserver/file-exists.php?img=JM25K_1944-png-{z}-{x}-{y}",
+      "maxNativeZoom": 17,
+      "maxZoom": 18,
+      "attribution": "中研院人社中心GIS專題中心 WMTS",
+      "license_status": "unconfirmed",
+      "is_historical": true,
+      "year_label": "1944"
+    },
+    "Taiwan_Corona_1966": {
+      "name": "1966 Corona 衛星影像",
+      "url": "https://gis.sinica.edu.tw/tileserver/file-exists.php?img=Taiwan_Corona_1966-png-{z}-{x}-{y}",
+      "maxNativeZoom": 16,
+      "maxZoom": 18,
+      "attribution": "中研院人社中心GIS專題中心 WMTS",
+      "license_status": "unconfirmed",
+      "is_historical": true,
+      "year_label": "1966"
+    },
+    "TM150K_1953": {
+      "name": "1953 臺糖鐵道網圖",
+      "url": "https://gis.sinica.edu.tw/tileserver/file-exists.php?img=TM150K_1953-png-{z}-{x}-{y}",
+      "maxNativeZoom": 15,
+      "maxZoom": 18,
+      "attribution": "中研院人社中心GIS專題中心 WMTS",
+      "license_status": "unconfirmed",
+      "is_historical": true,
+      "year_label": "1953"
+    },
+    "EMAP": {
+      "name": "現代：臺灣通用電子地圖",
+      "url": "https://wmts.nlsc.gov.tw/wmts/EMAP/default/GoogleMapsCompatible/{z}/{y}/{x}",
+      "maxNativeZoom": 19,
+      "maxZoom": 19,
+      "attribution": "內政部國土測繪中心 WMTS",
+      "license_status": "unconfirmed",
+      "is_historical": false,
+      "year_label": "今"
+    },
+    "PHOTO2": {
+      "name": "現代：國土測繪中心正射影像",
+      "url": "https://wmts.nlsc.gov.tw/wmts/PHOTO2/default/GoogleMapsCompatible/{z}/{y}/{x}",
+      "maxNativeZoom": 19,
+      "maxZoom": 19,
+      "attribution": "內政部國土測繪中心 WMTS",
+      "license_status": "unconfirmed",
+      "is_historical": false,
+      "year_label": "今"
+    },
+    "OSM": {
+      "name": "現代：OpenStreetMap",
+      "url": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "maxNativeZoom": 19,
+      "maxZoom": 19,
+      "attribution": "© OpenStreetMap contributors（ODbL）",
+      "license_status": "verified",
+      "is_historical": false,
+      "year_label": "今"
+    },
+    "PAPER": {
+      "name": "老紙底色＋組員數化的鐵路圖層",
+      "url": "",
+      "attribution": "",
+      "license_status": "verified",
+      "is_historical": true,
+      "year_label": "1939"
+    }
+  },
+  "fallback_modern": "OSM"
+}

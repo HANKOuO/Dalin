@@ -1,0 +1,57 @@
+{
+  "_說明": "第三關設定。答案不寫死：選擇題的正確答案由 landuse_A／landuse_B 的 area_m2 加總計算；點選題依 landuse_change 的 from_type、to_type 判斷。",
+  "layers": {
+    "A": "data/gis/level3/landuse_A.geojson",
+    "B": "data/gis/level3/landuse_B.geojson",
+    "change": "data/gis/level3/landuse_change.geojson",
+    "transitions": "data/gis/level3/landuse_transitions.csv"
+  },
+  "is_demo": true,
+  "min_change_area_m2": 2000,
+  "min_change_note": "面積小於這個值的變遷碎片視為配準誤差，不計入點選題。",
+  "colors": {
+    "農業用地": "#9bb06a",
+    "糖業工業用地": "#8a3b2a",
+    "建成區": "#c9a77a",
+    "綠地水域": "#5f8a86",
+    "能源設施": "#2f3a4a"
+  },
+  "basemap": "OSM",
+  "questions": [
+    {
+      "id": "Q1",
+      "kind": "choice_max_increase",
+      "text": "比較兩個年代，哪一種土地利用的面積「增加最多」？",
+      "points": 25,
+      "hint": "切到「統計」看兩個年代的長條圖，比較每一類的差額。"
+    },
+    {
+      "id": "Q2",
+      "kind": "choice_max_decrease",
+      "text": "哪一種土地利用的面積「減少最多」？",
+      "points": 25,
+      "hint": "找出早期很多、後期變少的顏色。"
+    },
+    {
+      "id": "Q3",
+      "kind": "click_change",
+      "text": "在地圖上點一塊「從農業用地變成其他用途」的地塊。",
+      "points": 25,
+      "match": {
+        "from_type": "農業用地",
+        "to_type_not": "農業用地"
+      },
+      "hint": "切到「變遷」圖層，亮色框的地塊代表有改變；點地塊可以看它從什麼變成什麼。"
+    },
+    {
+      "id": "Q4",
+      "kind": "click_change",
+      "text": "在地圖上點一塊「土地利用維持不變」的地塊。",
+      "points": 25,
+      "match": {
+        "same": true
+      },
+      "hint": "在「變遷」圖層中，灰色半透明的地塊代表沒有改變。"
+    }
+  ]
+}

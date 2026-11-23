@@ -1,0 +1,10 @@
+{
+  "_說明": "第一關的玩法設定。任務內容（題目、目標範圍、配分）在 data/gis/level1/level1_targets.geojson，用 QGIS 編輯。",
+  "targets_file": "data/gis/level1/level1_targets.geojson",
+  "tasks_required": 3,
+  "scoring": { "wrong_penalty": 0.2, "hint_penalty": 0.1, "zoom_hint_penalty": 0.15, "min_ratio": 0.3 },
+  "external_links": [
+    { "label": "1959 國軍航照（台灣製糖工場百年文史地圖，僅連結；授權不可轉載）", "url": "https://map.net.tw/taisugar/index_p-8465.html" }
+  ],
+  "note_1959": "預定比較的 1959 年航照只在「台灣製糖工場百年文史地圖」網站上以圖片呈現。該站版權宣告禁止未經同意轉載到其他網站，所以本遊戲不顯示 1959 航照，改用中研院 WMTS 的 1921 堡圖與 1966 Corona 影像；取得書面同意後再加入。"
+}

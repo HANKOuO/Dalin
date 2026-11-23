@@ -1,0 +1,12 @@
+{
+  "_說明": "第二關設定。建築資料在 data/gis/level2/level2_buildings.geojson。quests 依序列出要尋找的 building_id。",
+  "buildings_file": "data/gis/level2/level2_buildings.geojson",
+  "quests": ["B01", "B03", "B02", "B04"],
+  "modes": {
+    "easy":   { "label": "簡單", "desc": "提供照片與名稱", "clue_field": "clue_easy", "show_photo": true, "show_name": true },
+    "normal": { "label": "普通", "desc": "提供照片與部分文字線索", "clue_field": "clue_normal", "show_photo": true, "show_name": false },
+    "hard":   { "label": "困難", "desc": "只提供歷史用途與空間提示（尚未開放）", "clue_field": "clue_hard", "show_photo": false, "show_name": false, "disabled": true }
+  },
+  "basemap": "EMAP",
+  "scoring": { "wrong_penalty": 0.2, "hint_penalty": 0.1, "min_ratio": 0.3 }
+}
